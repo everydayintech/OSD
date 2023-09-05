@@ -227,6 +227,7 @@ function Update-DellDriverPackCatalog {
         Get-DellSystemCatalog -UpdateModuleCatalog
         
         $MasterDriverPacks = @()
+        $MasterDriverPacks += Get-AcerDriverPack
         $MasterDriverPacks += Get-DellDriverPack
         $MasterDriverPacks += Get-HPDriverPack
         $MasterDriverPacks += Get-LenovoDriverPack

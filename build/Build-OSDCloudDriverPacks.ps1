@@ -5,6 +5,7 @@ Import-Module OSD -Force -ErrorAction Stop
 
 # Master DriverPacks
 $MasterDriverPacks = @()
+$MasterDriverPacks += Get-AcerDriverPack
 $MasterDriverPacks += Get-DellDriverPack
 $MasterDriverPacks += Get-HPDriverPack
 $MasterDriverPacks += Get-LenovoDriverPack

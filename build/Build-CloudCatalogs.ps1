@@ -26,3 +26,4 @@ Update-DellDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-HPDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-LenovoDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-MicrosoftDriverPackCatalog -UpdateModuleCatalog -Verify
+Update-AcerDriverPackCatalog -UpdateModuleCatalog -Verify

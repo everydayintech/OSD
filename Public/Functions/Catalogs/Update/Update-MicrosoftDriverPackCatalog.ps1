@@ -215,6 +215,7 @@ function Update-MicrosoftDriverPackCatalog {
         #   UpdateCatalog
         #=================================================
         $MasterDriverPacks = @()
+        $MasterDriverPacks += Get-AcerDriverPack
         $MasterDriverPacks += Get-DellDriverPack
         $MasterDriverPacks += Get-HPDriverPack
         $MasterDriverPacks += Get-LenovoDriverPack

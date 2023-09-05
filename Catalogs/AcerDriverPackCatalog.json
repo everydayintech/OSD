@@ -1,0 +1,4062 @@
+[
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ALTOS P10 F8 10L Win11",
+        "Model":  "ATSP10 F8 WX",
+        "UnparsedTitle":  "ALTOS P10 F8 10L",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "ALTOS P10 F8 10L"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ALTOS P10 F8 20L Win11",
+        "Model":  "ATSP10 F8 WM",
+        "UnparsedTitle":  "ALTOS P10 F8 20L",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "ALTOS P10 F8 20L"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ALTOS P130 F8 30L Win11",
+        "Model":  "ATSP130 F8 WK",
+        "UnparsedTitle":  "ALTOS P130 F8 30L",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "ALTOS P130 F8 30L"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ALTOS P30 F8 20L Win11",
+        "Model":  "ATSP30 F8 WM",
+        "UnparsedTitle":  "ALTOS P30 F8 20L",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "ALTOS P30 F8 20L"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.10.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO EN314-51W Win10",
+        "Model":  "EN314-51W(G)",
+        "UnparsedTitle":  "Acer ENDURO EN314-51W, Acer ENDURO EN314-51WG",
+        "FileName":  "EN314-51_Windows10_All.cab",
+        "FileBaseName":  "EN314-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/EN314-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO EN314-51W"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.10.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO EN314-51WG Win10",
+        "Model":  "EN314-51W(G)",
+        "UnparsedTitle":  "Acer ENDURO EN314-51W, Acer ENDURO EN314-51WG",
+        "FileName":  "EN314-51_Windows10_All.cab",
+        "FileBaseName":  "EN314-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/EN314-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO EN314-51WG"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO EN714-51W Win10",
+        "Model":  "EN714-51W",
+        "UnparsedTitle":  "Acer ENDURO EN714-51W",
+        "FileName":  "EN714-51W_Windows10_All.cab",
+        "FileBaseName":  "EN714-51W_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/EN714-51W_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO EN714-51W"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO EN715-51W Win10",
+        "Model":  "EN715-51W",
+        "UnparsedTitle":  "Acer ENDURO EN715-51W",
+        "FileName":  "EN715-51W_Windows10_All.cab",
+        "FileBaseName":  "EN715-51W_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/EN715-51W_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO EN715-51W"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.11.09",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO ET110-31W Win10",
+        "Model":  "ET110-31W",
+        "UnparsedTitle":  "Acer ENDURO ET110-31W",
+        "FileName":  "ET110-31W_Windows10_All.cab",
+        "FileBaseName":  "ET110-31W_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/ET110-31W_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO ET110-31W"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer ENDURO ET510-51W Win10",
+        "Model":  "ET510-51W",
+        "UnparsedTitle":  "Acer ENDURO ET510-51W",
+        "FileName":  "ET510-51W_Windows10_All.cab",
+        "FileBaseName":  "ET510-51W_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/ET510-51W_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Acer ENDURO ET510-51W"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.07.15",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B114-21 Win10",
+        "Model":  "TMB114-21",
+        "UnparsedTitle":  "TravelMate B114-21",
+        "FileName":  "TMB114-21_Windows10_All.cab",
+        "FileBaseName":  "TMB114-21_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB114-21_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B114-21"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.04.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B118G2R Win10",
+        "Model":  "TMB118G2R(N)",
+        "UnparsedTitle":  "TravelMate B118G2R(N)",
+        "FileName":  "TM-B118-G2-R-N_Windows10_All.cab",
+        "FileBaseName":  "TM-B118-G2-R-N_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TM-B118-G2-R-N_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B118G2R"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.04.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B118G2RN Win10",
+        "Model":  "TMB118G2R(N)",
+        "UnparsedTitle":  "TravelMate B118G2R(N)",
+        "FileName":  "TM-B118-G2-R-N_Windows10_All.cab",
+        "FileBaseName":  "TM-B118-G2-R-N_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TM-B118-G2-R-N_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B118G2RN"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.04.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B118M Win10",
+        "Model":  "TMB118M",
+        "UnparsedTitle":  "TravelMate B118M",
+        "FileName":  "TM-B118-M_Windows10_All.cab",
+        "FileBaseName":  "TM-B118-M_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TM-B118-M_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B118M"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11-33 Win10",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11-33 Win11",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11-33-TCO Win10",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11-33-TCO Win11",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11R-33 Win10",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11R-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11R-33 Win11",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11R-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11R-33-TCO Win10",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11R-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B3 11R-33-TCO Win11",
+        "Model":  "TMB311-33",
+        "UnparsedTitle":  "TravelMate B3 11-33, TravelMate B3 11R-33, TravelMate B3 11-33-TCO, TravelMate B3 11R-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B3 11R-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B311-31 Win10",
+        "Model":  "TMB311-31",
+        "UnparsedTitle":  "TravelMate B311-31",
+        "FileName":  "TMB311-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB311-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B311-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B5 14-31 Win10",
+        "Model":  "TMB514-31",
+        "UnparsedTitle":  "TravelMate B5 14-31,  TravelMate B5 14-31-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B5 14-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B5 14-31 Win11",
+        "Model":  "TMB514-31",
+        "UnparsedTitle":  "TravelMate B5 14-31,  TravelMate B5 14-31-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B5 14-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B5 14-31-TCO Win10",
+        "Model":  "TMB514-31",
+        "UnparsedTitle":  "TravelMate B5 14-31,  TravelMate B5 14-31-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B5 14-31-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate B5 14-31-TCO Win11",
+        "Model":  "TMB514-31",
+        "UnparsedTitle":  "TravelMate B5 14-31,  TravelMate B5 14-31-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate B5 14-31-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-41 Win11",
+        "Model":  "TMP214-41, TMP214-41G2, TMP214-41G3",
+        "UnparsedTitle":  "TravelMate P214-41, TravelMate P214-41-G2, TravelMate P214-41-G3",
+        "FileName":  "TMP214-41_Windows11_All.cab",
+        "FileBaseName":  "TMP214-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-41-G2 Win11",
+        "Model":  "TMP214-41, TMP214-41G2, TMP214-41G3",
+        "UnparsedTitle":  "TravelMate P214-41, TravelMate P214-41-G2, TravelMate P214-41-G3",
+        "FileName":  "TMP214-41_Windows11_All.cab",
+        "FileBaseName":  "TMP214-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-41-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-41-G3 Win11",
+        "Model":  "TMP214-41, TMP214-41G2, TMP214-41G3",
+        "UnparsedTitle":  "TravelMate P214-41, TravelMate P214-41-G2, TravelMate P214-41-G3",
+        "FileName":  "TMP214-41_Windows11_All.cab",
+        "FileBaseName":  "TMP214-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-41-G3"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.07.15",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-51 Win10",
+        "Model":  "TMP214-51",
+        "UnparsedTitle":  "TravelMate P214-51",
+        "FileName":  "TMP214-51_Windows10_All.cab",
+        "FileBaseName":  "TMP214-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.06.21",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-52 Win10",
+        "Model":  "TMP214-52",
+        "UnparsedTitle":  "TravelMate P214-52",
+        "FileName":  "TMP214-52_Windows10_All.cab",
+        "FileBaseName":  "TMP214-52_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-52_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-53 Win10",
+        "Model":  "TMP214-53(G)",
+        "UnparsedTitle":  "TravelMate P214-53, TravelMate P214-53G",
+        "FileName":  "TMP214-53_Windows10_All.cab",
+        "FileBaseName":  "TMP214-53_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-53_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.05.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-53 Win11",
+        "Model":  "TMP214-53(G)",
+        "UnparsedTitle":  "TravelMate P214-53, TravelMate P214-53G",
+        "FileName":  "TMP214-53_Windows11_All.cab",
+        "FileBaseName":  "TMP214-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-53G Win10",
+        "Model":  "TMP214-53(G)",
+        "UnparsedTitle":  "TravelMate P214-53, TravelMate P214-53G",
+        "FileName":  "TMP214-53_Windows10_All.cab",
+        "FileBaseName":  "TMP214-53_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-53_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.05.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-53G Win11",
+        "Model":  "TMP214-53(G)",
+        "UnparsedTitle":  "TravelMate P214-53, TravelMate P214-53G",
+        "FileName":  "TMP214-53_Windows11_All.cab",
+        "FileBaseName":  "TMP214-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.01",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-54 Win10",
+        "Model":  "TMP214-54",
+        "UnparsedTitle":  "TravelMate P214-54",
+        "FileName":  "TMP214-54_Windows10_All.cab",
+        "FileBaseName":  "TMP214-54_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-54_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-54"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.06.15",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-54 Win11",
+        "Model":  "TMP214-54",
+        "UnparsedTitle":  "TravelMate P214-54",
+        "FileName":  "TMP214-54_TMP215-54_Windows 11_All.cab",
+        "FileBaseName":  "TMP214-54_TMP215-54_Windows 11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-54_TMP215-54_Windows 11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-54"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-55 Win11",
+        "Model":  "TMP214-55(G)",
+        "UnparsedTitle":  "TravelMate P214-55, TravelMate P214-55G",
+        "FileName":  "TMP216-51_TMP214-55_Windows11_All.cab",
+        "FileBaseName":  "TMP216-51_TMP214-55_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP216-51_TMP214-55_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-55"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P214-55G Win11",
+        "Model":  "TMP214-55(G)",
+        "UnparsedTitle":  "TravelMate P214-55, TravelMate P214-55G",
+        "FileName":  "TMP216-51_TMP214-55_Windows11_All.cab",
+        "FileBaseName":  "TMP216-51_TMP214-55_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP216-51_TMP214-55_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P214-55G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-41 Win11",
+        "Model":  "TMP215-41, TMP215-41G2, TMP215-41G3",
+        "UnparsedTitle":  "TravelMate P215-41, TravelMate P215-41-G2, TravelMate P215-41-G3",
+        "FileName":  "TMP215-41_Windows11_All.cab",
+        "FileBaseName":  "TMP215-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-41-G2 Win11",
+        "Model":  "TMP215-41, TMP215-41G2, TMP215-41G3",
+        "UnparsedTitle":  "TravelMate P215-41, TravelMate P215-41-G2, TravelMate P215-41-G3",
+        "FileName":  "TMP215-41_Windows11_All.cab",
+        "FileBaseName":  "TMP215-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-41-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-41-G3 Win11",
+        "Model":  "TMP215-41, TMP215-41G2, TMP215-41G3",
+        "UnparsedTitle":  "TravelMate P215-41, TravelMate P215-41-G2, TravelMate P215-41-G3",
+        "FileName":  "TMP215-41_Windows11_All.cab",
+        "FileBaseName":  "TMP215-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-41-G3"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.12.05",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-52 Win10",
+        "Model":  "TMP215-52",
+        "UnparsedTitle":  "TravelMate P215-52",
+        "FileName":  "TMP215-52_Windows10_All.cab",
+        "FileBaseName":  "TMP215-52_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP215-52_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-53 Win10",
+        "Model":  "TMP215-53(G)",
+        "UnparsedTitle":  "TravelMate P215-53, TravelMate P215-53G",
+        "FileName":  "TMP215-53_Windows10_All.cab",
+        "FileBaseName":  "TMP215-53_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP215-53_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-53G Win10",
+        "Model":  "TMP215-53(G)",
+        "UnparsedTitle":  "TravelMate P215-53, TravelMate P215-53G",
+        "FileName":  "TMP215-53_Windows10_All.cab",
+        "FileBaseName":  "TMP215-53_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP215-53_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-54 Win10",
+        "Model":  "TMP215-54",
+        "UnparsedTitle":  "TravelMate P215-54",
+        "FileName":  "TMP215-54_Windows10_All.cab",
+        "FileBaseName":  "TMP215-54_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-54_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-54"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.06.15",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P215-54 Win11",
+        "Model":  "TMP215-54",
+        "UnparsedTitle":  "TravelMate P215-54",
+        "FileName":  "TMP214-54_TMP215-54_Windows 11_All.cab",
+        "FileBaseName":  "TMP214-54_TMP215-54_Windows 11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP214-54_TMP215-54_Windows 11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P215-54"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P216-51 Win11",
+        "Model":  "TMP216-51(G)",
+        "UnparsedTitle":  "TravelMate P216-51, TravelMate P216-51G",
+        "FileName":  "TMP216-51_TMP214-55_Windows11_All.cab",
+        "FileBaseName":  "TMP216-51_TMP214-55_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP216-51_TMP214-55_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P216-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P216-51G Win11",
+        "Model":  "TMP216-51(G)",
+        "UnparsedTitle":  "TravelMate P216-51, TravelMate P216-51G",
+        "FileName":  "TMP216-51_TMP214-55_Windows11_All.cab",
+        "FileBaseName":  "TMP216-51_TMP214-55_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP216-51_TMP214-55_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P216-51G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-41 Win10",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.10.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-41 Win11",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-51 Win10",
+        "Model":  "TMP414-51(G), TMP414RN-51",
+        "UnparsedTitle":  "TravelMate P414-51, TravelMate P414-51G, TravelMate Spin P414RN-51",
+        "FileName":  "TMP414-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP414-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-51G Win10",
+        "Model":  "TMP414-51(G), TMP414RN-51",
+        "UnparsedTitle":  "TravelMate P414-51, TravelMate P414-51G, TravelMate Spin P414RN-51",
+        "FileName":  "TMP414-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP414-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-51G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.02.03",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-52 Win10",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-52 Win11",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-53 Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414-53G Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414P-53 Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414P-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414P-53G Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414P-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.02.03",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414RN-52 Win10",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414RN-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414RN-52 Win11",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414RN-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414RN-53 Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414RN-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P414RN-53G Win11",
+        "Model":  "TMP414-53(G), TMP414P-53(G), TMP414RN-53(G)",
+        "UnparsedTitle":  "TravelMate P414-53, TravelMate P414-53G, TravelMate P414P-53, TravelMate P414P-53G, TravelMate P414RN-53, TravelMate P414RN-53G",
+        "FileName":  "TMP414-53_Windows11_All.cab",
+        "FileBaseName":  "TMP414-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P414RN-53G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-41 Win10",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.10.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-41 Win11",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.02.03",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-51 Win10",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-51 Win11",
+        "Model":  "TMP414-52, TMP414RN-52, TMP416-51",
+        "UnparsedTitle":  "TravelMate P414-52, TravelMate P414RN-52, TravelMate P416-51",
+        "FileName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "FileBaseName":  "TMP414-52_TMP414RN-52_TMP416-51_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_TMP416-51_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-52 Win11",
+        "Model":  "TMP416-52(G), TMP416-72",
+        "UnparsedTitle":  "TravelMate P416-52, TravelMate P416-52G, TravelMate P416-72",
+        "FileName":  "TMP416-52_TMP416-72_Windows11_All.cab",
+        "FileBaseName":  "TMP416-52_TMP416-72_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-52_TMP416-72_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-52G Win11",
+        "Model":  "TMP416-52(G), TMP416-72",
+        "UnparsedTitle":  "TravelMate P416-52, TravelMate P416-52G, TravelMate P416-72",
+        "FileName":  "TMP416-52_TMP416-72_Windows11_All.cab",
+        "FileBaseName":  "TMP416-52_TMP416-72_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-52_TMP416-72_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-52G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P416-72 Win11",
+        "Model":  "TMP416-52(G), TMP416-72",
+        "UnparsedTitle":  "TravelMate P416-52, TravelMate P416-52G, TravelMate P416-72",
+        "FileName":  "TMP416-52_TMP416-72_Windows11_All.cab",
+        "FileBaseName":  "TMP416-52_TMP416-72_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-52_TMP416-72_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P416-72"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.08.05",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51 Win10",
+        "Model":  "TMP614-51(T)(G)",
+        "UnparsedTitle":  "TravelMate P614-51, TravelMate P614-51G, TravelMate P614-51T, TravelMate P614-51TG",
+        "FileName":  "TMP614-51_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.08.05",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51G Win10",
+        "Model":  "TMP614-51(T)(G)",
+        "UnparsedTitle":  "TravelMate P614-51, TravelMate P614-51G, TravelMate P614-51T, TravelMate P614-51TG",
+        "FileName":  "TMP614-51_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51-G2 Win10",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51-G2_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51-G2 Win11",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows11_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-51-G2_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51G-G2 Win10",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51-G2_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51G-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51G-G2 Win11",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows11_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-51-G2_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51G-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.08.05",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51T Win10",
+        "Model":  "TMP614-51(T)(G)",
+        "UnparsedTitle":  "TravelMate P614-51, TravelMate P614-51G, TravelMate P614-51T, TravelMate P614-51TG",
+        "FileName":  "TMP614-51_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51T"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "19.08.05",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51TG Win10",
+        "Model":  "TMP614-51(T)(G)",
+        "UnparsedTitle":  "TravelMate P614-51, TravelMate P614-51G, TravelMate P614-51T, TravelMate P614-51TG",
+        "FileName":  "TMP614-51_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51TG"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51T-G2 Win10",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51-G2_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51T-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51T-G2 Win11",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows11_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-51-G2_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51T-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51TG-G2 Win10",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows10_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-51-G2_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51TG-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.12.02",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-51TG-G2 Win11",
+        "Model":  "TMP614-51(T)(G)-G2",
+        "UnparsedTitle":  "TravelMate P614-51-G2, TravelMate P614-51G-G2, TravelMate P614-51T-G2, TravelMate P614-51TG-G2",
+        "FileName":  "TMP614-51-G2_Windows11_All.cab",
+        "FileBaseName":  "TMP614-51-G2_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-51-G2_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-51TG-G2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.10.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-52 Win10",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614-52_Windows10_All.cab",
+        "FileBaseName":  "TMP614-52_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-52_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-52 Win11",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614RN-52_Windows11_All.cab",
+        "FileBaseName":  "TMP614RN-52_Windows11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614RN-52_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-53 Win11",
+        "Model":  "TMP614(P)-53(T)",
+        "UnparsedTitle":  "TravelMate P614-53, TravelMate P614P-53, TravelMate P614-53T",
+        "FileName":  "TMP614-53_Windows11_All.cab",
+        "FileBaseName":  "TMP614-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614-53T Win11",
+        "Model":  "TMP614(P)-53(T)",
+        "UnparsedTitle":  "TravelMate P614-53, TravelMate P614P-53, TravelMate P614-53T",
+        "FileName":  "TMP614-53_Windows11_All.cab",
+        "FileBaseName":  "TMP614-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614-53T"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.10.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614P-52 Win10",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614-52_Windows10_All.cab",
+        "FileBaseName":  "TMP614-52_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-52_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614P-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614P-52 Win11",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614RN-52_Windows11_All.cab",
+        "FileBaseName":  "TMP614RN-52_Windows11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614RN-52_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614P-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate P614P-53 Win11",
+        "Model":  "TMP614(P)-53(T)",
+        "UnparsedTitle":  "TravelMate P614-53, TravelMate P614P-53, TravelMate P614-53T",
+        "FileName":  "TMP614-53_Windows11_All.cab",
+        "FileBaseName":  "TMP614-53_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-53_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate P614P-53"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin 311R-31 Win10",
+        "Model":  "TMB311-31R(N)",
+        "UnparsedTitle":  "TravelMate Spin B311R-31, TravelMate Spin B311RN-31, TravelMate Spin 311R-31, TravelMate Spin 311RN-31",
+        "FileName":  "TMB311-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB311-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin 311R-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin 311RN-31 Win10",
+        "Model":  "TMB311-31R(N)",
+        "UnparsedTitle":  "TravelMate Spin B311R-31, TravelMate Spin B311RN-31, TravelMate Spin 311R-31, TravelMate Spin 311RN-31",
+        "FileName":  "TMB311-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB311-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin 311RN-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B3 11RN-33 Win10",
+        "Model":  "TMB311RN-33",
+        "UnparsedTitle":  "TravelMate Spin B3 11RN-33, TravelMate Spin B3 11RN-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B3 11RN-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B3 11RN-33 Win11",
+        "Model":  "TMB311RN-33",
+        "UnparsedTitle":  "TravelMate Spin B3 11RN-33, TravelMate Spin B3 11RN-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B3 11RN-33"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B3 11RN-33-TCO Win10",
+        "Model":  "TMB311RN-33",
+        "UnparsedTitle":  "TravelMate Spin B3 11RN-33, TravelMate Spin B3 11RN-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B3 11RN-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.12",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B3 11RN-33-TCO Win11",
+        "Model":  "TMB311RN-33",
+        "UnparsedTitle":  "TravelMate Spin B3 11RN-33, TravelMate Spin B3 11RN-33-TCO",
+        "FileName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "FileBaseName":  "TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMB311-33_TMB311R-33_TMB311RN-33_TMB514-31_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B3 11RN-33-TCO"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B311R-31 Win10",
+        "Model":  "TMB311-31R(N)",
+        "UnparsedTitle":  "TravelMate Spin B311R-31, TravelMate Spin B311RN-31, TravelMate Spin 311R-31, TravelMate Spin 311RN-31",
+        "FileName":  "TMB311-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB311-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B311R-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin B311RN-31 Win10",
+        "Model":  "TMB311-31R(N)",
+        "UnparsedTitle":  "TravelMate Spin B311R-31, TravelMate Spin B311RN-31, TravelMate Spin 311R-31, TravelMate Spin 311RN-31",
+        "FileName":  "TMB311-31_Windows10_All.cab",
+        "FileBaseName":  "TMB311-31_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMB311-31_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin B311RN-31"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.05.17",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin P414RN-41 Win10",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-4_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-4_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin P414RN-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.10.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin P414RN-41 Win11",
+        "Model":  "TMP414-41, TMP414RN-41, TMP416-41",
+        "UnparsedTitle":  "TravelMate P414-41, TravelMate Spin P414RN-41, TravelMate P416-41",
+        "FileName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "FileBaseName":  "TMP414-41_TMP414RN-41_TMP416-41_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-41_TMP414RN-41_TMP416-41_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin P414RN-41"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.12.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin P414RN-51 Win10",
+        "Model":  "TMP414-51(G), TMP414RN-51",
+        "UnparsedTitle":  "TravelMate P414-51, TravelMate P414-51G, TravelMate Spin P414RN-51",
+        "FileName":  "TMP414-51_Windows10_All.cab",
+        "FileBaseName":  "TMP414-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP414-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin P414RN-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.10.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin P614RN-52 Win10",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614-52_Windows10_All.cab",
+        "FileBaseName":  "TMP614-52_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614-52_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin P614RN-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.06",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate Spin P614RN-52 Win11",
+        "Model":  "TMP614(P)(RN)-52",
+        "UnparsedTitle":  "TravelMate P614-52, TravelMate P614P-52, TravelMate Spin P614RN-52",
+        "FileName":  "TMP614RN-52_Windows11_All.cab",
+        "FileBaseName":  "TMP614RN-52_Windows11_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMP614RN-52_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate Spin P614RN-52"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.09.26",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate X3410M Win10",
+        "Model":  "TMX3410M(G)",
+        "UnparsedTitle":  "TravelMate X3410M(G)",
+        "FileName":  "TMX3410-M_Windows10x64_All.cab",
+        "FileBaseName":  "TMX3410-M_Windows10x64_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMX3410-M_Windows10x64_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate X3410M"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.09.26",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate X3410MG Win10",
+        "Model":  "TMX3410M(G)",
+        "UnparsedTitle":  "TravelMate X3410M(G)",
+        "FileName":  "TMX3410-M_Windows10x64_All.cab",
+        "FileBaseName":  "TMX3410-M_Windows10x64_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMX3410-M_Windows10x64_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate X3410MG"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.10",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate X514-51 Win10",
+        "Model":  "TMX514-51(T)",
+        "UnparsedTitle":  "TravelMate X514-51, TravelMate X514-51T",
+        "FileName":  "TMX514-51_Windows10_All.cab",
+        "FileBaseName":  "TMX514-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMX514-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate X514-51"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.02.10",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer TravelMate X514-51T Win10",
+        "Model":  "TMX514-51(T)",
+        "UnparsedTitle":  "TravelMate X514-51, TravelMate X514-51T",
+        "FileName":  "TMX514-51_Windows10_All.cab",
+        "FileBaseName":  "TMX514-51_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/TMX514-51_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "TravelMate X514-51T"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.07.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential N2580 Win10",
+        "Model":  "VEN2580",
+        "UnparsedTitle":  "Veriton Essential N2580",
+        "FileName":  "VEN2580_Windows10_All.cab",
+        "FileBaseName":  "VEN2580_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VEN2580_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential N2580"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2720 Win10",
+        "Model":  "VES2730(G), VES2720(G)",
+        "UnparsedTitle":  "Veriton Essential S2730(G), Veriton Essential S2720(G)",
+        "FileName":  "VES2730G_VES2720G_Windows10_x64.cab",
+        "FileBaseName":  "VES2730G_VES2720G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2730G_VES2720G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2720"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2720G Win10",
+        "Model":  "VES2730(G), VES2720(G)",
+        "UnparsedTitle":  "Veriton Essential S2730(G), Veriton Essential S2720(G)",
+        "FileName":  "VES2730G_VES2720G_Windows10_x64.cab",
+        "FileBaseName":  "VES2730G_VES2720G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2730G_VES2720G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2720G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2730 Win10",
+        "Model":  "VES2730(G), VES2720(G)",
+        "UnparsedTitle":  "Veriton Essential S2730(G), Veriton Essential S2720(G)",
+        "FileName":  "VES2730G_VES2720G_Windows10_x64.cab",
+        "FileBaseName":  "VES2730G_VES2720G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2730G_VES2720G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2730"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2730G Win10",
+        "Model":  "VES2730(G), VES2720(G)",
+        "UnparsedTitle":  "Veriton Essential S2730(G), Veriton Essential S2720(G)",
+        "FileName":  "VES2730G_VES2720G_Windows10_x64.cab",
+        "FileBaseName":  "VES2730G_VES2720G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2730G_VES2720G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2730G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2740 Win10",
+        "Model":  "VES2740(G)",
+        "UnparsedTitle":  "Veriton Essential S2740(G)",
+        "FileName":  "VES2740G_Windows10_x64.cab",
+        "FileBaseName":  "VES2740G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2740G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2740"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.04.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential S2740G Win10",
+        "Model":  "VES2740(G)",
+        "UnparsedTitle":  "Veriton Essential S2740(G)",
+        "FileName":  "VES2740G_Windows10_x64.cab",
+        "FileBaseName":  "VES2740G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VES2740G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential S2740G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential X2620 Win10",
+        "Model":  "VEX2620(G)",
+        "UnparsedTitle":  "Veriton Essential X2620(G)",
+        "FileName":  "VEX2620G_Windows10_All.cab",
+        "FileBaseName":  "VEX2620G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VEX2620G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential X2620"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential X2620G Win10",
+        "Model":  "VEX2620(G)",
+        "UnparsedTitle":  "Veriton Essential X2620(G)",
+        "FileName":  "VEX2620G_Windows10_All.cab",
+        "FileBaseName":  "VEX2620G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VEX2620G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential X2620G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.03.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Essential Z2740G Win10",
+        "Model":  "VEZ2740G",
+        "UnparsedTitle":  "Veriton Essential Z2740G",
+        "FileName":  "VEZ2740G_Windows10_x64.cab",
+        "FileBaseName":  "VEZ2740G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VEZ2740G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Essential Z2740G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K4690 Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K4690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K4690G Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K4690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K6690 Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K6690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K6690G Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K6690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K8-660G_E Win10",
+        "Model":  "VK8-660G_E",
+        "UnparsedTitle":  "Veriton K8-660G_E",
+        "FileName":  "VK8-660G_VK8-660G_Windows10_x64.cab",
+        "FileBaseName":  "VK8-660G_VK8-660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VK8-660G_VK8-660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K8-660G_E"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K8690 Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K8690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton K8690G Win11",
+        "Model":  "VK4690(G),VK6690(G),VK8690(G)",
+        "UnparsedTitle":  "Veriton K4690(G), Veriton K6690(G), Veriton K8690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton K8690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.21",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4660 Win10",
+        "Model":  "VM4660(G)",
+        "UnparsedTitle":  "Veriton M4660(G)",
+        "FileName":  "VM4660G_Windows10_x64.cab",
+        "FileBaseName":  "VM4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VM4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.21",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4660G Win10",
+        "Model":  "VM4660(G)",
+        "UnparsedTitle":  "Veriton M4660(G)",
+        "FileName":  "VM4660G_Windows10_x64.cab",
+        "FileBaseName":  "VM4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VM4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4670 Win10",
+        "Model":  "VM4670(G)",
+        "UnparsedTitle":  "Veriton M4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4670"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4670G Win10",
+        "Model":  "VM4670(G)",
+        "UnparsedTitle":  "Veriton M4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4690 Win11",
+        "Model":  "VM4690(G)",
+        "UnparsedTitle":  "Veriton M4690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M4690G Win11",
+        "Model":  "VM4690(G)",
+        "UnparsedTitle":  "Veriton M4690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M4690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.21",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M6660 Win10",
+        "Model":  "VM6660(G)",
+        "UnparsedTitle":  "Veriton M6660(G)",
+        "FileName":  "VM6660G_Windows10_x64.cab",
+        "FileBaseName":  "VM6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VM6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M6660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.21",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M6660G Win10",
+        "Model":  "VM6660(G)",
+        "UnparsedTitle":  "Veriton M6660(G)",
+        "FileName":  "VM6660G_Windows10_x64.cab",
+        "FileBaseName":  "VM6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VM6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M6660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M6690 Win11",
+        "Model":  "VM6690(G)",
+        "UnparsedTitle":  "Veriton M6690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M6690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton M6690G Win11",
+        "Model":  "VM6690(G)",
+        "UnparsedTitle":  "Veriton M6690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton M6690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "17.09.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4640 v2 Win10",
+        "Model":  "VN4640(G) v2, VN6640(G) v2",
+        "UnparsedTitle":  "Veriton N4640(G) v2, Veriton N6640(G) v2",
+        "FileName":  "VN4640G_VN6640G_Windows10_All.cab",
+        "FileBaseName":  "VN4640G_VN6640G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4640G_VN6640G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4640 v2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "17.09.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4640G v2 Win10",
+        "Model":  "VN4640(G) v2, VN6640(G) v2",
+        "UnparsedTitle":  "Veriton N4640(G) v2, Veriton N6640(G) v2",
+        "FileName":  "VN4640G_VN6640G_Windows10_All.cab",
+        "FileBaseName":  "VN4640G_VN6640G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4640G_VN6640G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4640G v2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.06.29",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4660 Win10",
+        "Model":  "VN4660(G), VN6660(G)",
+        "UnparsedTitle":  "Veriton N4660(G), Veriton N6660(G)",
+        "FileName":  "VN4660G_VN6660G_Windows10_All.cab",
+        "FileBaseName":  "VN4660G_VN6660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4660G_VN6660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.06.29",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4660G Win10",
+        "Model":  "VN4660(G), VN6660(G)",
+        "UnparsedTitle":  "Veriton N4660(G), Veriton N6660(G)",
+        "FileName":  "VN4660G_VN6660G_Windows10_All.cab",
+        "FileBaseName":  "VN4660G_VN6660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4660G_VN6660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.07.27",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4670G Win10",
+        "Model":  "VN4670G, VN4670GT, VN6670G",
+        "UnparsedTitle":  "Veriton N4670G, Veriton N4670GT, Veriton N6670G",
+        "FileName":  "VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "FileBaseName":  "VN4670G_VN4670GT_VN6670G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.07.27",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4670GT Win10",
+        "Model":  "VN4670G, VN4670GT, VN6670G",
+        "UnparsedTitle":  "Veriton N4670G, Veriton N4670GT, Veriton N6670G",
+        "FileName":  "VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "FileBaseName":  "VN4670G_VN4670GT_VN6670G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4670GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.10.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4680GT Win10",
+        "Model":  "VN4680GT, VN6680G",
+        "UnparsedTitle":  "Veriton N4680GT, Veriton N6680G",
+        "FileName":  "VN4680G_VN6680G_Windows10_All.cab",
+        "FileBaseName":  "VN4680G_VN6680G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4680G_VN6680G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4680GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4690G Win10",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4690G Win11",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4690GT Win10",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4690GT Win11",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4710G Win10",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4710G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4710G Win11",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4710G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4710GT Win10",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4710GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N4710GT Win11",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N4710GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "17.09.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6640 v2 Win10",
+        "Model":  "VN4640(G) v2, VN6640(G) v2",
+        "UnparsedTitle":  "Veriton N4640(G) v2, Veriton N6640(G) v2",
+        "FileName":  "VN4640G_VN6640G_Windows10_All.cab",
+        "FileBaseName":  "VN4640G_VN6640G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4640G_VN6640G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6640 v2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "17.09.22",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6640G v2 Win10",
+        "Model":  "VN4640(G) v2, VN6640(G) v2",
+        "UnparsedTitle":  "Veriton N4640(G) v2, Veriton N6640(G) v2",
+        "FileName":  "VN4640G_VN6640G_Windows10_All.cab",
+        "FileBaseName":  "VN4640G_VN6640G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4640G_VN6640G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6640G v2"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.06.29",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6660 Win10",
+        "Model":  "VN4660(G), VN6660(G)",
+        "UnparsedTitle":  "Veriton N4660(G), Veriton N6660(G)",
+        "FileName":  "VN4660G_VN6660G_Windows10_All.cab",
+        "FileBaseName":  "VN4660G_VN6660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4660G_VN6660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.06.29",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6660G Win10",
+        "Model":  "VN4660(G), VN6660(G)",
+        "UnparsedTitle":  "Veriton N4660(G), Veriton N6660(G)",
+        "FileName":  "VN4660G_VN6660G_Windows10_All.cab",
+        "FileBaseName":  "VN4660G_VN6660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4660G_VN6660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.07.27",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6670G Win10",
+        "Model":  "VN4670G, VN4670GT, VN6670G",
+        "UnparsedTitle":  "Veriton N4670G, Veriton N4670GT, Veriton N6670G",
+        "FileName":  "VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "FileBaseName":  "VN4670G_VN4670GT_VN6670G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4670G_VN4670GT_VN6670G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "21.10.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6680G Win10",
+        "Model":  "VN4680GT, VN6680G",
+        "UnparsedTitle":  "Veriton N4680GT, Veriton N6680G",
+        "FileName":  "VN4680G_VN6680G_Windows10_All.cab",
+        "FileBaseName":  "VN4680G_VN6680G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VN4680G_VN6680G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6680G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6690G Win10",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6690G Win11",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6690GT Win10",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6690GT Win11",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6710G Win10",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6710G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton N6710G Win11",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton N6710G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S2660 Win10",
+        "Model":  "VS2660(G)",
+        "UnparsedTitle":  "Veriton S2660(G)",
+        "FileName":  "VX2660G_VS2660G_Windows10_All.cab",
+        "FileBaseName":  "VX2660G_VS2660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2660G_VS2660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S2660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S2660G Win10",
+        "Model":  "VS2660(G)",
+        "UnparsedTitle":  "Veriton S2660(G)",
+        "FileName":  "VX2660G_VS2660G_Windows10_All.cab",
+        "FileBaseName":  "VX2660G_VS2660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2660G_VS2660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S2660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S2665 Win10",
+        "Model":  "VS2665(G)",
+        "UnparsedTitle":  "Veriton S2665(G)",
+        "FileName":  "VX2665G_VS2665G_Windows10_x64.cab",
+        "FileBaseName":  "VX2665G_VS2665G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2665G_VS2665G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S2665"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S2665G Win10",
+        "Model":  "VS2665(G)",
+        "UnparsedTitle":  "Veriton S2665(G)",
+        "FileName":  "VX2665G_VS2665G_Windows10_x64.cab",
+        "FileBaseName":  "VX2665G_VS2665G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2665G_VS2665G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S2665G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S4660 Win10",
+        "Model":  "VS4660(G)",
+        "UnparsedTitle":  "Veriton S4660(G)",
+        "FileName":  "VX4660G_VS4660G_Windows10_x64.cab",
+        "FileBaseName":  "VX4660G_VS4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4660G_VS4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S4660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S4660G Win10",
+        "Model":  "VS4660(G)",
+        "UnparsedTitle":  "Veriton S4660(G)",
+        "FileName":  "VX4660G_VS4660G_Windows10_x64.cab",
+        "FileBaseName":  "VX4660G_VS4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4660G_VS4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S4660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S4670 Win10",
+        "Model":  "VS4670(G)",
+        "UnparsedTitle":  "Veriton S4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S4670"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S4670G Win10",
+        "Model":  "VS4670(G)",
+        "UnparsedTitle":  "Veriton S4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S4670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S6660 Win10",
+        "Model":  "VS6660(G)",
+        "UnparsedTitle":  "Veriton S6660(G)",
+        "FileName":  "VX6660G_VS6660G_Windows10_x64.cab",
+        "FileBaseName":  "VX6660G_VS6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX6660G_VS6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S6660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton S6660G Win10",
+        "Model":  "VS6660(G)",
+        "UnparsedTitle":  "Veriton S6660(G)",
+        "FileName":  "VX6660G_VS6660G_Windows10_x64.cab",
+        "FileBaseName":  "VX6660G_VS6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX6660G_VS6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton S6660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N4690GT Win10",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N4690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.25",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N4690GT Win11",
+        "Model":  "VN4690G(T), VVN4690GT, VN6690G(T)",
+        "UnparsedTitle":  "Veriton N4690G, Veriton N4690GT, Veriton N6690G,Veriton N6690GT, Veriton Vero N4690GT",
+        "FileName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "FileBaseName":  "VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4690GT_VN4690GT_VN6690G_VN4690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N4690GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.06.08",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N4710GT Win10",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N4710GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.01.11",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N4710GT Win11",
+        "Model":  "VN4710G(T), VVN4710GT, VN6710G(T)",
+        "UnparsedTitle":  "Veriton Vero N4710GT, Veriton N4710G, Veriton N4710GT, Veriton N6710G",
+        "FileName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "FileBaseName":  "VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VVN4710GT_VN4710G_VN4710GT_VN6710G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N4710GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.08.28",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N4720GT Win11",
+        "Model":  "VVN4720GT, VVN6720GT",
+        "UnparsedTitle":  "Veriton Vero N4720GT, Veriton Vero N6720GT",
+        "FileName":  "VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All.cab",
+        "FileBaseName":  "VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N4720GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "23.08.28",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Vero N6720GT Win11",
+        "Model":  "VVN4720GT, VVN6720GT",
+        "UnparsedTitle":  "Veriton Vero N4720GT, Veriton Vero N6720GT",
+        "FileName":  "VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All.cab",
+        "FileBaseName":  "VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VeritonVeroN6720GT_VeritonVeroN4720GT_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Vero N6720GT"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X2660 Win10",
+        "Model":  "VX2660(G)",
+        "UnparsedTitle":  "Veriton X2660(G)",
+        "FileName":  "VX2660G_VS2660G_Windows10_All.cab",
+        "FileBaseName":  "VX2660G_VS2660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2660G_VS2660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X2660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.13",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X2660G Win10",
+        "Model":  "VX2660(G)",
+        "UnparsedTitle":  "Veriton X2660(G)",
+        "FileName":  "VX2660G_VS2660G_Windows10_All.cab",
+        "FileBaseName":  "VX2660G_VS2660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2660G_VS2660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X2660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X2665 Win10",
+        "Model":  "VX2665(G)",
+        "UnparsedTitle":  "Veriton X2665(G)",
+        "FileName":  "VX2665G_VS2665G_Windows10_x64.cab",
+        "FileBaseName":  "VX2665G_VS2665G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2665G_VS2665G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X2665"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.04.23",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X2665G Win10",
+        "Model":  "VX2665(G)",
+        "UnparsedTitle":  "Veriton X2665(G)",
+        "FileName":  "VX2665G_VS2665G_Windows10_x64.cab",
+        "FileBaseName":  "VX2665G_VS2665G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX2665G_VS2665G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X2665G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4660 Win10",
+        "Model":  "VX4660(G)",
+        "UnparsedTitle":  "Veriton X4660(G)",
+        "FileName":  "VX4660G_VS4660G_Windows10_x64.cab",
+        "FileBaseName":  "VX4660G_VS4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4660G_VS4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4660G Win10",
+        "Model":  "VX4660(G)",
+        "UnparsedTitle":  "Veriton X4660(G)",
+        "FileName":  "VX4660G_VS4660G_Windows10_x64.cab",
+        "FileBaseName":  "VX4660G_VS4660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4660G_VS4660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4670 Win10",
+        "Model":  "VX4670(G)",
+        "UnparsedTitle":  "Veriton X4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4670"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4670G Win10",
+        "Model":  "VX4670(G)",
+        "UnparsedTitle":  "Veriton X4670(G)",
+        "FileName":  "VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "FileBaseName":  "VX4670G_VS4670G_VM4670G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX4670G_VS4670G_VM4670G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4690 Win11",
+        "Model":  "VX4690(G)",
+        "UnparsedTitle":  "Veriton X4690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X4690G Win11",
+        "Model":  "VX4690(G)",
+        "UnparsedTitle":  "Veriton X4690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X4690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X6660 Win10",
+        "Model":  "VX6660(G)",
+        "UnparsedTitle":  "Veriton X6660(G)",
+        "FileName":  "VX6660G_VS6660G_Windows10_x64.cab",
+        "FileBaseName":  "VX6660G_VS6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX6660G_VS6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X6660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.19",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X6660G Win10",
+        "Model":  "VX6660(G)",
+        "UnparsedTitle":  "Veriton X6660(G)",
+        "FileName":  "VX6660G_VS6660G_Windows10_x64.cab",
+        "FileBaseName":  "VX6660G_VS6660G_Windows10_x64",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VX6660G_VS6660G_Windows10_x64.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X6660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X6690 Win11",
+        "Model":  "VX6690(G)",
+        "UnparsedTitle":  "Veriton X6690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X6690"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "22.07.20",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton X6690G Win11",
+        "Model":  "VX6690(G)",
+        "UnparsedTitle":  "Veriton X6690(G)",
+        "FileName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "FileBaseName":  "VXVMVK_4690G_6690G_VK8690G_Windows11_All",
+        "Url":  "https://global-download.acer.com/supportfiles/files/support/sccm/VXVMVK_4690G_6690G_VK8690G_Windows11_All.cab",
+        "OS":  "Windows 11 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton X6690G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.30",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4660 Win10",
+        "Model":  "VZ4660(G)",
+        "UnparsedTitle":  "Veriton Z4660(G)",
+        "FileName":  "VZ4660G_Windows10_All.cab",
+        "FileBaseName":  "VZ4660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4660"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.11.30",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4660G Win10",
+        "Model":  "VZ4660(G)",
+        "UnparsedTitle":  "Veriton Z4660(G)",
+        "FileName":  "VZ4660G_Windows10_All.cab",
+        "FileBaseName":  "VZ4660G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4660G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4660G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4670 Win10",
+        "Model":  "VZ4670(G)",
+        "UnparsedTitle":  "Veriton Z4670(G)",
+        "FileName":  "VZ4670G_Windows10_All.cab",
+        "FileBaseName":  "VZ4670G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4670G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4670"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4670G Win10",
+        "Model":  "VZ4670(G)",
+        "UnparsedTitle":  "Veriton Z4670(G)",
+        "FileName":  "VZ4670G_Windows10_All.cab",
+        "FileBaseName":  "VZ4670G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4670G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4670G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4860 Win10",
+        "Model":  "VZ4860(G)",
+        "UnparsedTitle":  "Veriton Z4860(G)",
+        "FileName":  "VZ4860G_Windows10_All.cab",
+        "FileBaseName":  "VZ4860G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4860G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4860"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4860G Win10",
+        "Model":  "VZ4860(G)",
+        "UnparsedTitle":  "Veriton Z4860(G)",
+        "FileName":  "VZ4860G_Windows10_All.cab",
+        "FileBaseName":  "VZ4860G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4860G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4860G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4870 Win10",
+        "Model":  "VZ4870(G)",
+        "UnparsedTitle":  "Veriton Z4870(G)",
+        "FileName":  "VZ4870G_Windows10_All.cab",
+        "FileBaseName":  "VZ4870G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4870G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4870"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z4870G Win10",
+        "Model":  "VZ4870(G)",
+        "UnparsedTitle":  "Veriton Z4870(G)",
+        "FileName":  "VZ4870G_Windows10_All.cab",
+        "FileBaseName":  "VZ4870G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ4870G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z4870G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z6860 Win10",
+        "Model":  "VZ6860(G)",
+        "UnparsedTitle":  "Veriton Z6860(G)",
+        "FileName":  "VZ6860G_Windows10_All.cab",
+        "FileBaseName":  "VZ6860G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ6860G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z6860"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "18.12.07",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z6860G Win10",
+        "Model":  "VZ6860(G)",
+        "UnparsedTitle":  "Veriton Z6860(G)",
+        "FileName":  "VZ6860G_Windows10_All.cab",
+        "FileBaseName":  "VZ6860G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ6860G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z6860G"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z6870 Win10",
+        "Model":  "VZ6870(G)",
+        "UnparsedTitle":  "Veriton Z6870(G)",
+        "FileName":  "VZ6870G_Windows10_All.cab",
+        "FileBaseName":  "VZ6870G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ6870G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z6870"
+                    ]
+    },
+    {
+        "CatalogVersion":  "23.09.05",
+        "Status":  null,
+        "Component":  "DriverPack",
+        "ReleaseDate":  "20.08.04",
+        "Manufacturer":  "Acer",
+        "Name":  "Acer Veriton Z6870G Win10",
+        "Model":  "VZ6870(G)",
+        "UnparsedTitle":  "Veriton Z6870(G)",
+        "FileName":  "VZ6870G_Windows10_All.cab",
+        "FileBaseName":  "VZ6870G_Windows10_All",
+        "Url":  "https://global-download.acer.com/SupportFiles/Files/Support/SCCM/VZ6870G_Windows10_All.cab",
+        "OS":  "Windows 10 x64",
+        "OSVersion":  null,
+        "OSReleaseId":  null,
+        "OSBuild":  null,
+        "Product":  [
+                        "Veriton Z6870G"
+                    ]
+    }
+]

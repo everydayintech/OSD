@@ -280,6 +280,7 @@ function Update-HPDriverPackCatalog {
         Get-HPSystemCatalog -UpdateModuleCatalog
         
         $MasterDriverPacks = @()
+        $MasterDriverPacks += Get-AcerDriverPack
         $MasterDriverPacks += Get-DellDriverPack
         $MasterDriverPacks += Get-HPDriverPack
         $MasterDriverPacks += Get-LenovoDriverPack

@@ -26,6 +26,7 @@ Update-DellDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-LenovoDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-HPDriverPackCatalog -UpdateModuleCatalog -Verify
 Update-MicrosoftDriverPackCatalog -UpdateModuleCatalog -Verify
+Update-AcerDriverPackCatalog -UpdateModuleCatalog -Verify
 
 # PlatyPS Module
 $modules = Get-Module -Name platyPS -ListAvailable
@@ -49,6 +50,7 @@ New-ExternalHelp -Path $OSDDocsPath -OutputPath $OSDDocsOutoutPath -Force
 
 # Master DriverPacks
 $MasterDriverPacks = @()
+$MasterDriverPacks += Get-AcerDriverPack
 $MasterDriverPacks += Get-DellDriverPack
 $MasterDriverPacks += Get-HPDriverPack
 $MasterDriverPacks += Get-LenovoDriverPack
