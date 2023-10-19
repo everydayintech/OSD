@@ -4,13 +4,13 @@
 
 @{
     RootModule              = 'OSD.psm1'
-    ModuleVersion           = '23.8.28.1'
+    ModuleVersion           = '23.10.10.1'
     CompatiblePSEditions    = @('Desktop')
     GUID                    = '9fe5b9b6-0224-4d87-9018-a8978529f6f5'
     Author                  = 'David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos'
     CompanyName             = 'OSD Community'
     Copyright               = '(c) 2023 OSDeploy'
-    Description             = 'Almost September Edition'
+    Description             = 'October Update 2023'
     PowerShellVersion       = '5.1'
     FormatsToProcess        = @(
         '.\Format\MsUpCat.Format.ps1xml'
@@ -217,6 +217,8 @@
         'Invoke-SelectLocalVolume',
         'Invoke-SelectOSDVolume',
         'Invoke-SelectUSBVolume',
+        'Start-WindowsUpdate',
+        'Start-WindowsUpdateDriver',
         'Set-AzClipboard',
         'Set-BitlockerRegValuesXTS256',
         'Set-BootmgrTimeout',
@@ -233,6 +235,10 @@
         'Set-SetupCompleteHyperVName',
         'Set-SetupCompleteNetFX',
         'Set-SetupCompleteOEMActivation',
+        'Set-SetupCompleteStartWindowsUpdate',
+        'Set-SetupCompleteStartWindowsUpdateDriver',
+        'Set-SetupCompleteOSDCloudUSB',
+        'Set-SetupCompleteTimeZone',
         'Set-SetupCompleteSetWiFi',
         'Set-TimeZoneFromIP',
         'Set-WiFi',
@@ -257,6 +263,8 @@
         'Start-ScreenPNGProcess',
         'Start-WinREWiFi',
         'Stop-ScreenPNGProcess',
+        'Start-DISMFromOSDCloudUSB',
+        'Test-DISMFromOSDCloudUSB',
         'Test-DCUSupport',
         'Test-FolderToIso',
         'Test-HPIASupport',

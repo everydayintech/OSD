@@ -146,13 +146,19 @@
         #endregion
 
         #region Set Pre-Merge Defaults
-        #Skip Recovery Partition for Virtual Machines
+        <#  If this is a Virtual Machine and Skip Recovery Partition 
+            OVERRIDE:
+            $Global:MyOSDCloud.RecoveryPartition = $true
+        #>
         if ($Global:OSDCloud.IsVirtualMachine) {
             $Global:OSDCloud.SkipRecoveryPartition = $true
         }
         #endregion
 
         #region Merge Global Variables
+        <#  Overwrite the defaults from Invoke-OSDCloud by using custom variables
+            MyOSDCloud is the last and final customization variable
+        #>
         if ($Global:InvokeOSDCloud) {
             foreach ($Key in $Global:InvokeOSDCloud.Keys) {
                 $Global:OSDCloud.$Key = $Global:InvokeOSDCloud.$Key
@@ -1884,21 +1890,6 @@ exit
             osdcloud-addmouseoobe
             osdcloud-UpdateModuleFilesManually
             #osdcloud-WinpeUpdateDefender
-        }
-        if ($Global:OSDCloud.DevMode -eq $true){
-            Write-Output "DevMode Enabled"
-            if ($Global:OSDCloud.DebugMode -eq $true){
-                Invoke-Expression (Invoke-RestMethod -Uri 'https://raw.githubusercontent.com/OSDeploy/OSD/master/cloud/modules/_anywhere.psm1')
-                osdcloud-UpdateModuleFilesManually -DEVMode $true
-            }
-            else{
-                Invoke-Expression (Invoke-RestMethod -Uri 'https://raw.githubusercontent.com/OSDeploy/OSD/master/cloud/modules/_anywhere.psm1')
-                Invoke-Expression (Invoke-RestMethod -Uri 'https://raw.githubusercontent.com/OSDeploy/OSD/master/cloud/modules/debugmode.psm1')
-                osdcloud-addcmtrace
-                osdcloud-addmouseoobe
-                osdcloud-UpdateModuleFilesManually -DEVMode $true
-                #osdcloud-WinpeUpdateDefender
-            }
         }
     }
     #endregion
